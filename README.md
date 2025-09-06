@@ -65,7 +65,7 @@
 
 ## ✨ Quote of the Day
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&v=1" alt="quote" width="400"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" alt="quote" width="400"/>
 </p>
 
 
