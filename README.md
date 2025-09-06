@@ -62,7 +62,7 @@
 ---
 
 ## ✨ Quote of the Day
-![Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
+![Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&v=1)
 
 
 ---
