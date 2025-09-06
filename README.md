@@ -29,15 +29,15 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=duongduonghai&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duongduonghai&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HoangOcean99&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoangOcean99&layout=compact&theme=radical" height="160"/>
 </p>
 
 ---
 
 ## 🔥 Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=duongduonghai&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=HoangOcean99&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -52,9 +52,8 @@
 ---
 
 ## ✨ Quote of the Day
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
-</p>
+![Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
+
 
 ---
 
