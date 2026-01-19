@@ -52,10 +52,10 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://web.facebook.com/hoang.hai.duong.484951"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.facebook.com/hoang.hai.duong.484951"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" /></a>
   <a href="https://www.tiktok.com/@haiduong09905"><img src="https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white&style=for-the-badge" /></a>
   <a href="https://www.instagram.com/haiduong09905/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-4285F4?logo=Google-chrome&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://haiduong.name.vn/"><img src="https://img.shields.io/badge/Portfolio-4285F4?logo=Google-chrome&logoColor=white&style=for-the-badge" /></a>
   <a href="mailto:duonghaiduong090905@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
 </p>
 
